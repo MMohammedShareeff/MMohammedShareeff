@@ -1,5 +1,5 @@
 # 💫 About Me:
-⁉️ i'm Mohammed Shareef<br>📘 i'm a 3rd year computer science student<br>🏢 i'm currently working as a backend developer<br>⚒️ i'm currently working to imporve my frontend skills as well as the backend sklls.<br>
+⁉️ i'm Mohammed Shareef<br>📘 i'm a 3rd year computer science student<br><br>
 
 
 ## 🌐 Socials:
