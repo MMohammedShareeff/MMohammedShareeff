@@ -1,5 +1,5 @@
 # 💫 About Me:
-⁉️ i'm Mohammed Shareef<br>📘 i'm a 4rd year computer science student<br><br>
+⁉️ i'm Mohammed Shareef<br>📘 i'm a 4th year computer science student<br><br>
 
 
 ## 🌐 Socials:
