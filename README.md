@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=MMohammedShareeff&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🌱 I'm currently working on software development and competitive programming
 - 📬 How to reach me: [mohammdshariffethi@gmail.com](mailto:mohammdshariffethi@gmail.com)
 - ⚡ Fun fact: I love solving problems and creating original ones on Polygon as well.
 
