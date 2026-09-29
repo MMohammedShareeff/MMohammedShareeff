@@ -32,12 +32,17 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 
-### 🔝 Top Languages & Contributions:
+### 🔝 Top Languages:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMohammedShareeff&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MMohammedShareeff&layout=compact&bg_color=ffffff&text_color=000000&title_color=000000&border_color=e4e4e4" alt="Top Languages" />
+</p>
+
+### 📊 GitHub Overview:
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MMohammedShareeff&show_icons=true&bg_color=ffffff&text_color=000000&title_color=000000&border_color=e4e4e4" alt="GitHub Stats Overview" />
 </p>
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MMohammedShareeff&theme=flat&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MMohammedShareeff&theme=flat&hide_border=false&background=FFFFFF&ring=0077B5&fire=0077B5&currStreakLabel=0077B5" alt="GitHub Streak Stats" />
 </p>
